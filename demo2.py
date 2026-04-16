@@ -12,7 +12,3 @@ def test_add():
 
 # 运行测试
 test_add()
-print("修改正确一次")
-print("修改正确2次")
-print("还要修改")
-print("a00000000000")
