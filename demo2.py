@@ -12,3 +12,4 @@ def test_add():
 
 # 运行测试
 test_add()
+print("修啊给i")
